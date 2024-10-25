@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraDescuento</string>
+    <string name="calcularDescuento">Descuento: </string>
+    <string name="precio">Precio</string>
+    <string name="descuento">Descuento: \n%s</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="total">Total: \n%s</string>
+</resources>
